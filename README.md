@@ -1,2 +1,7 @@
-# Proyecto-Lightning-Technologies
-Programación para dispositivos móviles jueves 6pm -9pm
+# Proyecto
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
